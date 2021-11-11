@@ -1,0 +1,10 @@
+{
+  "name": "monorepo_app",
+  "private": true,
+  "workspaces": [
+    "services/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
