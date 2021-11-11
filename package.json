@@ -1,5 +1,5 @@
 {
-  "name": "monorepo_app",
+  "name": "money_tracker",
   "private": true,
   "workspaces": [
     "services/*"

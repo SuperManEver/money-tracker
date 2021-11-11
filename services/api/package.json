@@ -1,9 +1,6 @@
 {
-  "name": "@monorepo_app/server",
+  "name": "@money_tracker/server",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "@monorepo_app/client": "1.0.0"
-  }
+  "license": "MIT"
 }

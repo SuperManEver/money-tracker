@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo_app/utils",
+  "name": "@money_tracker/utils",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
