@@ -1,5 +1,5 @@
 function main() {
-  console.log("Ohhh my gosshhh");
+  console.log("This is message from client!");
 }
 
 module.exports = main;
